@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -17,7 +17,7 @@ sidebar:
     github: https://github.com/ryuryuto
     gitlab: https://gitlab.com/rukawaneko
     
-    languages:
+    语言掌握:
       - idiom: 中文
         level: 母语
 
