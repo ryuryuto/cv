@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: 董 龙
-    tagline: Full Stack Developer
+    tagline: 软件工程师
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rukawaneko@outlook.com
     phone: 18369916136
-    github: ryutoto
+    github: https://github.com/ryuryuto
     gitlab: rukawaneko
     
     languages:
