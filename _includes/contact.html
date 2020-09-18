@@ -12,6 +12,12 @@
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.weixin %}
+    <li class="phone"><i class="fab fa-weixin"></i>
+      <a href="#">{{ sidebar.weixin }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.telegram %}
     <li class="telegram"><i class="fab fa-telegram"></i>
