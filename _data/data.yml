@@ -116,9 +116,14 @@ projects:
         tagline: "负责后台管理功能和前台界面功能的实现。在这个项目中我学习使用bootstrap和围绕它的一系列插件，包括界面布局、表单、文件上传下载、图标、提示窗等，这些应用在后台和前台页面。
         同时利用JQuery提供的Ajax在不刷新页面的情况下局部更新部分数据，结合起来给用户带来更好的使用体验。"
 
-      - title: c_programming_a_modern_approach
+      - title: C Programming A Modern Approach Exercised Solution
         link: "https://github.com/ryuryuto/c_programming_a_modern_approach"
-        tagline: "分享C 语言知名书籍《C Programming A Modern Approach》每章课后部分习题的解题方法"
+        tagline: "分享C语言知名书籍《C Programming A Modern Approach》每章课后部分习题的解题方法"
+
+      - title: Neovim/Vim Config
+        link: "https://github.com/ryuryuto/c_programming_a_modern_approach"
+        tagline: "Neovim/Vim 配置文件"
+        
 
 # publications:
 #     title: Publications
