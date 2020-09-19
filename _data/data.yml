@@ -42,7 +42,10 @@ career-profile:
     summary: |
       三年软件开发经验，一年项目团队管理经验，技术部主管兼主程，主导开发了多个市级、区级项目，
       所有上线系统均稳定运行，没有出现过重大事故，获得了客户和领导的肯定。
-有进取心和事业心，担任技术部副主管以来努力推动技术迭代：1.倡导学习多样化的技术，根据实际需要进行技术选型，项目中使用过.NET（WebForm、MVC + Windows Server）、PHP（ThinkPHP + Linux）、Java(SpringMVC + Linux)等技术栈。2.推行分布式代码管理平台Git，提高协作开发和代码维护的效率。3.号召部门员工利用空闲时间充电，鼓励将学习成果应用到项目中，定期召开部门例会，总结项目经验，分享学习成果。.
+      有进取心和事业心，担任技术部副主管以来努力推动技术迭代：1.倡导学习多样化的技术，根据实际需要进行技术选型，
+      项目中使用过.NET（WebForm、MVC + Windows Server）、PHP（ThinkPHP + Linux）、Java(SpringMVC + Linux)等技术栈。
+      2.推行分布式代码管理平台Git，提高协作开发和代码维护的效率。3.号召部门员工利用空闲时间充电，鼓励将学习成果应用到项目中，定期召开部门例会，总结项目经验，分享学习成果。
+      
 education:
     - degree: MSc in Computer Science
       university: University of London
