@@ -15,7 +15,13 @@
     
     {% if sidebar.weixin %}
     <li class="phone"><i class="fab fa-weixin"></i>
-      <a href="#">{{ sidebar.weixin }}</a>
+      <a href="javascript:void(0)">{{ sidebar.weixin }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.qq %}
+    <li class="phone"><i class="fab fa-qq"></i>
+      <a href="javascript:void(0)">{{ sidebar.qq }}</a>
     </li>
     {% endif %}
 
