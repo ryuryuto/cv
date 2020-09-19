@@ -42,7 +42,7 @@ career-profile:
     summary: |
       三年B/S架构服务端开发经验，一年项目管理经验，参与开发多个市级、区级项目。
       热爱学习，尝试.NET、PHP、Java、Ruby on Rails等不同的技术栈；推行Git，搭建Gitlab作为代码托管和协作开发平台。
-      多次独立解决项目中遇到的各种技术难题。
+      多次独立解决项目中遇到的各种技术难题。 热爱在Github、Gitlab上技术交流和分享。
 
 education:
     - degree: 电子与通信工程(计算机方向)，工程硕士
@@ -61,37 +61,29 @@ education:
       details: |
         机电与信息工程学院数字媒体技术专业。
           - CET4 622分，CET6 568分
-          - 多次获得奖学金，院级、校级三好学生          
+          - 多次获得奖学金，校级三好学生          
           - 专业前10%保送本校电子与通信工程专业（计算机方向）
 
 experiences:
-    - role: 技术部主管
+    - role: 技术研发部主管
       time: 2019 - Present
       company: 新火炬信息产业有限公司，淄博
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        领导技术研发部，与商务部等其他部门配合，协作完成公司的软件开发任务。
+        需求调研，编写项目方案，制定开发计划，分配开发任务，控制开发进度，解决技术难题以及后期维护。
+        同时承担B/S架构服务端的开发工作。
+          - 主导完成多个B/S架构项目
+          - 推动技术部技术革新
           
     - role: 软件工程师
       time: 2017 - 2019
       company: 新火炬信息产业有限公司, 淄博
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        主要承担B/S架构中服务端的开发工作。与前端配合共同完成上级分配的开发任务和要求，修复测试发现的bug，做好项目交付后的维护工作。        
+          - 有良好的编程习惯，代码整洁规范
+          - 成长快速，迅速成为服务端主程，承担绝大多数的开发任务
+          - 学习能力强，短时间熟悉项目架构，快速上手
+          - 能独立解决遇到的绝大多数问题
     
 projects:
     title: Projects
