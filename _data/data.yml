@@ -150,13 +150,13 @@ skills:
         level: 70%
       
       - name: SQL & SQL Server & MySQL
-        level: 65%
+        level: 68%
       
-      - name: Javascript & jQuery
-        level: 60%
-
       - name: Java & Spring
-        level: 60%
+        level: 65%
+
+      - name: Javascript & jQuery
+        level: 60%            
 
       - name: Python
         level: 55%
