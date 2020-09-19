@@ -104,8 +104,7 @@ projects:
         职责是组织安排技术部相关人员协助客户申请小程序，配置公众号，申请域名等前期工作。
         与前端配合，实现小程序服务端功能，和前后端数据交互。
         主要克服的问题是基于用户的位置或用户填写的订单地址，获取离用户距离最近的水站。
-        我的做法是利用geohash算法将二维坐标转换成的一维字符串，通过判断点是否在多边形中的方法判断用户的订单地址是否在水站范围内。
-        事先将水站的微信账号加上标签，通过标签筛选要发送通知的微信用户的open_id，通过easywechat发送模板消息通知水站有新订单。"
+        我的做法是利用geohash算法将二维坐标转换成的一维字符串，通过判断点是否在多边形中的方法判断用户的订单地址是否在水站范围内。"
 
       - title: 淄博市科技云综合技术支撑平台校城融合子系统
         link: "javascript:void(0)"
@@ -117,9 +116,9 @@ projects:
         tagline: "负责后台管理功能和前台界面功能的实现。在这个项目中我学习使用bootstrap和围绕它的一系列插件，包括界面布局、表单、文件上传下载、图标、提示窗等，这些应用在后台和前台页面。
         同时利用JQuery提供的Ajax在不刷新页面的情况下局部更新部分数据，结合起来给用户带来更好的使用体验。"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: c_programming_a_modern_approach
+        link: "https://github.com/ryuryuto/c_programming_a_modern_approach"
+        tagline: "分享C 语言知名书籍《C Programming A Modern Approach》每章课后部分习题的解题方法"
 
 # publications:
 #     title: Publications
@@ -147,23 +146,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
+      - name: C# & .NET
+        level: 70%
+      
+      - name: SQL & SQL Server & MySQL
+        level: 65%
+      
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
         level: 60%
+
+      - name: Java & Spring
+        level: 50%
+
+      - name: Python
+        level: 50%
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
