@@ -94,21 +94,28 @@ projects:
       - title: 淄博天然气指数发布平台
         link: "http://index.oilchem.net.cn/"
         tagline: "职责是组织协调前后端开发工作，实现后台管理功能并提供restful接口给前端。
-        通过这个项目，在人员协作、控制项目进度等方面吸取了经验教训；进一步熟悉了Spring boot/Mybatis/Shiro以及Linux命令的使用，
-        此项目的核心在于浮点数的算术运算，算法较为复杂，为了确保运算结果准确无误，如百分比之和加起来是100，我采取了按小数部分排序，
-        从小数最大的那个百分比开始加一，直到补全所有的差值，最终圆满解决了问题。"
+        通过这个项目，在人员协作、控制项目进度等方面吸取了经验教训；进一步熟悉了Spring boot/Mybatis/Shiro以及Linux命令的使用。
+        此项目的核心在于浮点数的算术运算，算法较为复杂，为了确保运算结果准确无误，如百分比之和加起来是100。
+        我采取了按小数部分排序，从小数最大的那个百分比开始加一，直到补全所有的差值，最终圆满解决了问题。"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 神来送水小程序
+        link: "javascript:void(0)"
+        tagline: "以CRMEB开源电商营销系统为基础，根据客户需求定制开发。
+        职责是组织安排技术部相关人员协助客户申请小程序，配置公众号，申请域名等前期工作。
+        与前端配合，实现小程序服务端功能，和前后端数据交互。
+        主要克服的问题是基于用户的位置或用户填写的订单地址，获取离用户距离最近的水站。
+        我的做法是利用geohash算法将二维坐标转换成的一维字符串，通过判断点是否在多边形中的方法判断用户的订单地址是否在水站范围内。
+        事先将水站的微信账号加上标签，通过标签筛选要发送通知的微信用户的open_id，通过easywechat发送模板消息通知水站有新订单。"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 淄博市科技云综合技术支撑平台校城融合子系统
+        link: "javascript:void(0)"
+        tagline: "职责是把原4个基于.NET Web Form的科技奖励申报系统通过.NET MVC技术升级，合并成一个平台。
+        主要难点或工作量是数据库的融合，提取共性数据。我的做法是首先梳理4个数据库，列出每个表的用途，合并企业账号到唯新的数据库中，当企业在新平台注册时，如果存在历史数据，自动绑定原有数据。"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: 淄博生产力中心产学研合作平台
+        link: "http://222.134.87.102:11015/"
+        tagline: "负责后台管理功能和前台界面功能的实现。在这个项目中我学习使用bootstrap和围绕它的一系列插件，包括界面布局、表单、文件上传下载、图标、提示窗等，这些应用在后台和前台页面。
+        同时利用JQuery提供的Ajax在不刷新页面的情况下局部更新部分数据，结合起来给用户带来更好的使用体验。"
 
       - title: Delta
         link: "#"
