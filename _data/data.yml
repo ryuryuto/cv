@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: 董 龙
@@ -47,28 +47,20 @@ career-profile:
       2.推行分布式代码管理平台Git，提高协作开发和代码维护的效率。3.号召部门员工利用空闲时间充电，鼓励将学习成果应用到项目中，定期召开部门例会，总结项目经验，分享学习成果。
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 电子与通信工程(计算机方向)，工程硕士
+      university: 山东大学
+      time: 2011 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+        机电与信息工程学院电子与通信工程.
+          - 担任2010级计算机系的C++实验课指导老师
+          - 参与了威海市监狱人员进出管理系统、荣成港渔船渔民管理系统等项目的开发
+    - degree: 数字媒体技术，工学学士
+      university: 山东大学
       time: 2007 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        机电与信息工程学院数字媒体技术专业。
+          - 多次获得奖学金、三好学生，最终成绩专业前10%
+          - 保送到本校电子与通信工程专业（计算机方向）
 experiences:
     - role: Lead Developer
       time: 2015 - Present
