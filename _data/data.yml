@@ -119,11 +119,11 @@ projects:
 
       - title: C Programming A Modern Approach Exercised Solution
         link: "https://github.com/ryuryuto/c_programming_a_modern_approach"
-        tagline: "分享C语言知名书籍《C Programming A Modern Approach》每章课后部分习题的解题方法"
+        tagline: "分享C语言知名书籍《C Programming A Modern Approach》每章课后部分习题的解题方法。"
 
       - title: Neovim/Vim Config
         link: "https://github.com/ryuryuto/neovim"
-        tagline: "Neovim/Vim 配置文件分享"
+        tagline: "Neovim/Vim 配置文件分享。"
 
 
 # publications:
