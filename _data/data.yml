@@ -40,21 +40,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      三年软件开发经验，一年项目团队管理经验，技术部主管兼主程，主导开发了多个市级、区级项目，
-      所有上线系统均稳定运行，没有出现过重大事故，获得了客户和领导的肯定。
-      有进取心和事业心，担任技术部副主管以来努力推动技术迭代：1.倡导学习多样化的技术，根据实际需要进行技术选型，
-      项目中使用过.NET（WebForm、MVC + Windows Server）、PHP（ThinkPHP + Linux）、Java(SpringMVC + Linux)等技术栈。
-      2.推行分布式代码管理平台Git，提高协作开发和代码维护的效率。3.号召部门员工利用空闲时间充电，鼓励将学习成果应用到项目中，定期召开部门例会，总结项目经验，分享学习成果。
+      技术部主管兼主程，三年软件开发经验，一年项目团队管理经验，主导开发过多个市级、区级项目。
+      有进取心和事业心，担任技术部主管以来努力推动技术更新：尝试.NET、PHP、Java等技术栈；
+      推行Git，内部服务器搭建Gitlab。
+      多次独立解决项目中遇到的各种技术问题。
 
 education:
     - degree: 电子与通信工程(计算机方向)，工程硕士
       university: 山东大学
       time: 2011 - 2014
       details: |
-        机电与信息工程学院电子与通信工程。
-          - 指导2010级计算机系C++实验课
+        机电与信息工程学院电子与通信工程专业。
+          - 2010级计算机系C++实验课助教
           - 参与威海市监狱人员进出管理系统开发
           - 参与荣成港渔船渔民管理系统开发
+          - 日语NAT-TEST4级 119分
 
     - degree: 数字媒体技术，工学学士
       university: 山东大学
@@ -62,13 +62,13 @@ education:
       details: |
         机电与信息工程学院数字媒体技术专业。
           - CET4 622分，CET6 568分
-          - 多次获得奖学金，院级、校级三好学生，最终成绩专业前10%          
-          - 保送到本校电子与通信工程专业（计算机方向）
+          - 多次获得奖学金，院级、校级三好学生          
+          - 专业前10%保送本校电子与通信工程专业（计算机方向）
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: 技术部主管
+      time: 2019 - Present
+      company: 新火炬信息产业有限公司，淄博
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -81,9 +81,10 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          
+    - role: 软件工程师
+      time: 2017 - 2019
+      company: 新火炬信息产业有限公司, 淄博
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,17 +93,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    
 projects:
     title: Projects
     intro: >
