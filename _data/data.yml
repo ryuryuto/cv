@@ -41,8 +41,8 @@ career-profile:
     title: Career Profile
     summary: |
       三年B/S架构服务端开发经验，一年项目管理经验，参与开发多个市级、区级项目。
-      热爱学习，尝试.NET、PHP、Java、Ruby on Rails等不同的技术栈；推行Git，搭建Gitlab作为代码托管和协作开发平台。
-      多次独立解决项目中遇到的各种技术难题。 热爱在Github、Gitlab上技术交流和分享。
+      热爱学习，尝试.NET、PHP、Java、Ruby on Rails等不同的技术栈；推行Git，搭建GitLab作为代码托管和协作开发平台。
+      多次独立解决项目中遇到的各种技术难题。 热爱在GitHub、GitLab上技术交流和分享。
 
 education:
     - degree: 电子与通信工程(计算机方向)，工程硕士
@@ -69,11 +69,12 @@ experiences:
       time: 2019 - Present
       company: 新火炬信息产业有限公司，淄博
       details: |
-        领导技术研发部，与商务部等其他部门配合，协作完成公司的软件开发任务。
-        需求调研，编写项目方案，制定开发计划，分配开发任务，控制开发进度，解决技术难题以及后期维护。
-        同时承担B/S架构服务端的开发工作。
+        领导技术研发部，与其他部门协作完成公司的软件开发任务。
+        统筹安排工作要求，完成需求调研，编写项目方案，制定开发计划，分配开发任务，控制开发进度，以及后期维护。
+        同时承担B/S架构服务端的开发工作，解决技术难题。
           - 主导完成多个B/S架构项目
-          - 推动技术部技术革新
+          - 推动技术部技术革新，尝试不同的技术栈
+          - 推动由svn向git转型，代码全部迁移到GitLab
           
     - role: 软件工程师
       time: 2017 - 2019
@@ -88,13 +89,14 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 淄博天然气指数发布平台
+        link: "http://index.oilchem.net.cn/"
+        tagline: "职责是组织协调前后端开发工作，实现后台管理功能并提供restful接口给前端。
+        通过这个项目，在人员协作、控制项目进度等方面吸取了经验教训；进一步熟悉了Spring boot/Mybatis/Shiro以及Linux命令的使用，
+        此项目的核心在于浮点数的算术运算，算法较为复杂，为了确保运算结果准确无误，如百分比之和加起来是100，我采取了按小数部分排序，
+        从小数最大的那个百分比开始加一，直到补全所有的差值，最终圆满解决了问题。"
 
       - title: DevStudio
         link: "#"
