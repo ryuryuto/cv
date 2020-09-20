@@ -41,7 +41,7 @@ career-profile:
     title: Career Profile
     summary: |
       三年B/S架构服务端开发经验，一年项目管理经验，参与开发多个市级、区级项目。
-      热爱学习，使用过.NET、PHP、Java、Ruby on Rails等技术栈；部门内部推行Git，搭建GitLab作为代码托管和协作开发平台。
+      有.NET、PHP、Java的项目经验；在部门内部推行Git，搭建GitLab作为代码托管和协作开发平台。
       多次独立解决项目中遇到的各种技术难题。 热衷通过GitHub、GitLab等平台交流和分享技术心得。
 
 education:
@@ -69,19 +69,20 @@ experiences:
       time: 2019 - Present
       company: 新火炬信息产业有限公司，淄博
       details: |
-        领导技术研发部，与其他部门协作完成公司的软件开发任务。
-        统筹安排工作要求，完成需求调研，编写项目方案，制定开发计划，分配开发任务，控制开发进度，以及后期维护。
-        同时承担B/S架构服务端的开发工作，解决技术难题。
+        带领技术研发部完成公司的软件开发任务。
+        组织需求调研，编写项目方案，制定开发计划，分配开发任务，控制开发进度，项目发布以及后期维护。
+        负责B/S架构服务端的开发工作，解决项目遇到的各种技术难题。
           - 主导完成多个B/S架构项目
           - 推动技术部技术革新，尝试不同的技术栈
           - 推动由svn向git转型，代码全部迁移到GitLab
           - 集团内部选派赴浙江大学参加培训
+          - 空闲时间通过GitHub、GitLab个人项目提升技术
           
     - role: 软件工程师
       time: 2017 - 2019
       company: 新火炬信息产业有限公司, 淄博
       details: |
-        主要承担B/S架构中服务端的开发工作。与前端配合共同完成上级分配的开发任务和要求，修复测试发现的bug，做好项目交付后的维护工作。        
+        负责B/S架构中服务端的开发工作。与前端配合共同完成上级分配的开发任务和要求，修复测试发现的bug，做好项目交付后的维护工作。        
           - 有良好的编程习惯，代码整洁规范
           - 成长快速，迅速成为服务端主程，承担大部分开发任务
           - 学习能力强，短时间熟悉项目架构，快速上手
@@ -121,10 +122,7 @@ projects:
         link: "https://github.com/ryuryuto/c_programming_a_modern_approach"
         tagline: "分享C语言知名书籍《C Programming A Modern Approach》每章课后部分习题的解题方法。"
 
-      - title: Neovim/Vim Config
-        link: "https://github.com/ryuryuto/neovim"
-        tagline: "Neovim/Vim 配置文件分享。"
-
+      
 
 # publications:
 #     title: Publications
