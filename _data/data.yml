@@ -124,6 +124,10 @@ projects:
         link: "https://github.com/ryuryuto/c_programming_a_modern_approach"
         tagline: "分享C语言知名书籍《C Programming A Modern Approach》每章课后部分习题的解题方法。"
 
+      - title: Rails
+        link: "https://github.com/ryuryuto/rails"
+        tagline: "分享Ruby On Rails心得"
+
       
 
 # publications:
@@ -165,10 +169,7 @@ skills:
         level: 60%            
       
       - name: Linux & Shell Script
-        level: 55%
-
-      - name: Python
-        level: 55%
+        level: 55%      
       
 
 footer: >
