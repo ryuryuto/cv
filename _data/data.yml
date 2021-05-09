@@ -33,16 +33,16 @@ sidebar:
       - item: 健身
         link:
 
-      - item: 跑步
+      - item: 电影
         link:
                 
 
 career-profile:
     title: Career Profile
     summary: |
-      三年B/S架构服务端开发经验，一年项目管理经验，参与开发多个市级、区级项目。
-      有.NET、PHP、Java的项目经验；在部门内部推行Git，搭建GitLab作为代码托管和协作开发平台。
-      多次独立解决项目中遇到的各种技术难题。 对知识渴望，有强烈的学习热情。
+      三年B/S架构服务端开发经验，一年项目管理经验，参与开发、主导多个市级、区级和企业项目。
+      完成多个.NET、PHP、Java项目。
+      能够独立解决项目中遇到的技术难题。 对知识渴望，有强烈的学习热情。
       热衷通过GitHub、GitLab等平台交流和分享技术心得。
       
 
@@ -77,7 +77,6 @@ experiences:
           - 主导完成多个B/S架构项目
           - 推动技术部技术革新，尝试不同的技术栈
           - 推动由svn向git转型，代码全部迁移到GitLab
-          - 集团内部选派赴浙江大学参加培训
           - 空闲时间通过GitHub、GitLab个人项目提升技术
           
     - role: 软件工程师
